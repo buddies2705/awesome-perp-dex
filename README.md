@@ -362,6 +362,7 @@ Funding rates, open interest, liquidation maps, volume comparisons, market-share
 | **DEXrabbit** | Sol, ETH, BSC, Base, Tron, Polygon, Arb, Optimism + Polymarket | DexScreener alternative — live token / pair / heatmap analytics with AI overviews. Powered by Bitquery. | [dexrabbit.bitquery.io](https://dexrabbit.bitquery.io/) |
 | **a1 Research** | Industry research | "Perp DEX Wars" deep-dive reports | [a1research.io](https://a1research.io/) |
 | **Hyperliquid Guide** | Hyperliquid | Funding rate, OI, volume tools and guides | [hyperliquidguide.com](https://hyperliquidguide.com/) |
+| **OpenChainBench** | Hyperliquid frontends, HIP-3 deployer DEXs, perp DEX routing, on-chain aggregators | 104 tracked Hyperliquid builder addresses with revenue / volume / users / top traders; HIP-3 cohort (trade.xyz, Dreamcash, Ventuals, Kinetiq, HYENA, Felix, Paragon) with fees and volume over 24h / 7d / 30d; multi-region perp DEX order routing latency; refreshed every 10 to 60s; CC-BY-4.0 datasets | [openchainbench.com](https://openchainbench.com/hyperliquid) |
 
 ---
 
