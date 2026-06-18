@@ -323,6 +323,7 @@ These sit on top of multiple perp DEXs and route orders for best execution, unif
 | **Mux Protocol** | GMX / Gains / others | Aggregator pool for cross-venue perps | 🟢 Live | [mux.network](https://mux.network/) |
 | **Rabbitx** | Multi-DEX | Centralised UX over decentralised settlement | 🟢 Live | [rabbitx.io](https://app.rabbitx.io?ref=CBNV5RYNXV) |
 | **Tread.fi** | Multi-chain perps | Cross-venue perp aggregator | 🟢 Live | [tread.fi](https://app.tread.fi/) |
+| **Hypertradeworx** | Hyperliquid, Lighter, GRVT, Aster, GMX, Ostium | Unified multi-venue perp terminal, AI market-outlook, Telegram signal execution | 🟢 Live | [hypertradeworx.xyz](https://hypertradeworx.xyz) |
 
 ---
 
