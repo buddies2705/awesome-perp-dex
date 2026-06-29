@@ -272,6 +272,7 @@ Arbitrum was the original "perp DEX chain" — and despite Hyperliquid's rise, i
 | **Kodiak V3** 🆕 | Berachain | 100x leverage, Orderly-powered | 🟢 Live | [kodiak.finance](https://app.kodiak.finance) |
 | **Monday Trade Perps** 🆕 | Monad | Monad-native perp DEX | 🟢 Live | [monday.trade](https://app.monday.trade/) |
 | **World Markets Inc Perps** 🆕 | MegaETH | MegaETH-native perp DEX | 🟢 Live | [world.inc](https://world.inc/) |
+| **Rubin Trade** 🆕 | RITBIT (own appchain) | Self-custody perpetual & spot DEX, API + MCP for AI agents | 🟢 Live | [rubin.trade](https://rubin.trade/) |
 
 ---
 
@@ -486,6 +487,7 @@ Connect AI agents (Claude, Cursor, ChatGPT) directly to perp DEX data and execut
 | **Hyperliquid MCP (PlayAI)** | USD sizing, dual-account architecture | 🟢 Live | [GitHub](https://github.com/PlayAINetwork/hyperliquid) |
 | **VOOI MCP** | AI agent perp aggregation execution | 🟢 Live | [vooi MCP](https://vooi.io/perpdexaggregator/vooi-mcp-execution-layer) |
 | **Bybit MCP** (CEX-side) | 247 tools, full Bybit V5 API for hedging | 🟢 Live | [GitHub](https://github.com/bybit-exchange/bybit-mcp) |
+| **Rubin Trade MCP** | Trade perpetuals & spot on Rubin — orders, order book, candles, positions, balances | 🟢 Live | [GitHub](https://github.com/rubin-trade/rubin-mainnet-mcp) |
 
 ---
 
