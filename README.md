@@ -145,6 +145,7 @@ Hyperliquid is an app-specific L1 with a fully on-chain orderbook plus EVM compa
 | **Minara AI Perps** | AI front-end | AI-assisted Hyperliquid trading | 🟢 Live | [minara.ai](https://minara.ai/) |
 | **Ventuals** | Pre-IPO perps | Pre-IPO equity perps on Hyperliquid | 🟢 Live | [ventuals.com](https://app.ventuals.com/) |
 | **Miracle** | Trading app | Hyperliquid trading interface | 🟢 Live | [miracletrade.com](https://www.miracletrade.com/) |
+| **Dexly** | Mobile trading app | Perps, spot, tokenized stocks, prediction markets & copy trading in one self-custodial mobile app | 🟢 Live | [dexly.trade](https://dexly.trade/) |
 
 ---
 
@@ -290,6 +291,7 @@ A new wave of perp DEXs offers exposure to **stocks, commodities, oil, and inter
 | **Parcl** | Real-estate index perps | Solana | 🟢 Live | [parcl.co](https://parcl.co/) |
 | **Gains Network (gTrade)** | FX, equities, crypto | Polygon, Arbitrum | 🟢 Live | [gains.trade](https://gains.trade/) |
 | **Ventuals** | Pre-IPO equity perps | Hyperliquid L1 | 🟢 Live | [ventuals.com](https://app.ventuals.com/) |
+| **Dexly** | Tokenized stocks, commodities | Hyperliquid L1 | 🟢 Live | [dexly.trade](https://dexly.trade/) |
 
 ---
 
@@ -393,6 +395,7 @@ Hyperliquid's fully on-chain orderbook means **everyone's positions are public**
 | **WunderTrading** | Multi-DEX | TradingView webhook copy + bots | 🟢 Live | [wundertrading.com](https://wundertrading.com/en/trader/register?ref=wbt8e5404fc) |
 | **goodcryptoX** | Multi-DEX | Multi-venue automation incl. Hyperliquid | 🟢 Live | [goodcrypto.app](https://goodcrypto.app/) |
 | **Hyperbot** | Hyperliquid + Aster | AI-tagged copy trading, 0.1% service fee | 🟢 Live | [hyperbot.network](https://hyperbot.network/) |
+| **Dexly** | Hyperliquid | Mobile copy trading — follow top traders from iOS/Android, self-custodial | 🟢 Live | [dexly.trade](https://dexly.trade/) |
 
 ---
 
@@ -418,6 +421,7 @@ Hyperliquid's fully on-chain orderbook means **everyone's positions are public**
 | --- | --- | --- | --- | --- | --- |
 | **Hyperliquid Official App** | Android | Hyperliquid | Native push notifs for fills, full perps + spot | 🟢 Live | [Google Play](https://play.google.com/store/apps/details?id=xyz.hyperliquid.app) |
 | **Dexari** | iOS / Android | Hyperliquid (300+ markets) | Self-custodial, CEX-like UX, Lemniscap-backed | 🟢 Live | [dexari.com](https://dexari.com/) |
+| **Dexly** | iOS / Android | Hyperliquid | Perps, spot, tokenized stocks, commodities & prediction markets; copy trading, self-custodial, no KYC | 🟢 Live | [dexly.trade](https://dexly.trade/) |
 | **Avy** | iOS | Hyperliquid | QR-code login, zero-friction onboarding | 🟢 Live | [avy.app](https://avy.app/) |
 | **Riverrun** | iOS / Android | Hyperliquid | Self-custodial RN/Expo app, 50x leverage | 🟢 Live | [GitHub](https://github.com/sadcoderlabs/riverrun) |
 | **BasedApp** | Mobile-first | Hyperliquid | Mobile-native trading | 🟢 Live | [based.one](https://app.based.one/) |
