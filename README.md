@@ -377,6 +377,7 @@ Hyperliquid's fully on-chain orderbook means **everyone's positions are public**
 | **PerpFinder Whale Tracker** | Hyperliquid | Top 20 accounts, 60s refresh | 🟢 Live | [perpfinder.com/tools/whales](https://perpfinder.com/tools/whales) |
 | **Copin** | Hyperliquid + 20 perp DEXs | 600K+ on-chain traders, copy or alert | 🟢 Live | [copin.io](https://app.copin.io?ref=IPSPYN) |
 | **HyperX** | Hyperliquid | Native Hyperliquid trader discovery + copy | 🟢 Live | [hyperx.app](https://hyperx.app/) |
+| **whale.ag** | Hyperliquid + HIP-3 | 9-signal skill ranking computed from on-chain fills, smart-money flow, insider-wallet discovery | 🟢 Live | [whale.ag](https://whale.ag) |
 | **whale-tracker-mcp** | Multi-chain | MCP server for whale tx tracking via AI agents | 🟢 Live | [GitHub](https://github.com/kukapay/whale-tracker-mcp) |
 | **hyperliquid-whalealert-mcp** | Hyperliquid | Real-time whale alerts via MCP | 🟢 Live | [GitHub](https://github.com/kukapay/hyperliquid-whalealert-mcp) |
 
@@ -393,6 +394,7 @@ Hyperliquid's fully on-chain orderbook means **everyone's positions are public**
 | **WunderTrading** | Multi-DEX | TradingView webhook copy + bots | 🟢 Live | [wundertrading.com](https://wundertrading.com/en/trader/register?ref=wbt8e5404fc) |
 | **goodcryptoX** | Multi-DEX | Multi-venue automation incl. Hyperliquid | 🟢 Live | [goodcrypto.app](https://goodcrypto.app/) |
 | **Hyperbot** | Hyperliquid + Aster | AI-tagged copy trading, 0.1% service fee | 🟢 Live | [hyperbot.network](https://hyperbot.network/) |
+| **whale.ag** | Hyperliquid + HIP-3 | Non-custodial copy trading (agent can trade, never withdraw), Alpha50 50-trader consensus, portfolio-level risk controls | 🟢 Live | [whale.ag](https://whale.ag) |
 
 ---
 
