@@ -357,6 +357,7 @@ Funding rates, open interest, liquidation maps, volume comparisons, market-share
 | **PerpScout** | Cross-DEX | Tier list of perp DEXs for traders | [perpscout.com](http://perpscout.com/) |
 | **Coinperps** | CEX + DEX | Cross-venue funding rates, OI, liquidations | [coinperps.com](https://www.coinperps.com/) |
 | **HypeFlows** | Hyperliquid | Hyperliquid market-share vs CEXs in real time | [hypeflows.com](https://hypeflows.com/) |
+| **HyperAlerts** | Hyperliquid | Configurable price, funding, open-interest and volume alerts; wallet and large-trade tracking; live news, Radar, Heatmap, HIP-3 earnings and market hours | [hyperliquid.tv](https://hyperliquid.tv/) |
 | **HyperTracker** | Hyperliquid | Wallet behaviour, top traders, push alerts | [hypertracker.xyz](https://hypertracker.xyz/) |
 | **Hyperscanner** | Hyperliquid + HyperEVM | Unified analytics + block explorer | [hyperscanner.app](https://www.hyperscanner.app/) |
 | **DEXrabbit** | Sol, ETH, BSC, Base, Tron, Polygon, Arb, Optimism + Polymarket | DexScreener alternative — live token / pair / heatmap analytics with AI overviews. Powered by Bitquery. | [dexrabbit.bitquery.io](https://dexrabbit.bitquery.io/) |
