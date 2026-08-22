@@ -388,6 +388,7 @@ Hyperliquid's fully on-chain orderbook means **everyone's positions are public**
 | --- | --- | --- | --- | --- |
 | **Hyperliquid Native Vaults** | Hyperliquid | On-chain copy via vault deposits, 10% profit share | 🟢 Live | [app.hyperliquid.xyz/vaults](https://app.hyperliquid.xyz/vaults) |
 | **Copin** | 20+ perp DEXs | 600K+ traders, full PnL transparency, one-click | 🟢 Live | [copin.io](https://app.copin.io?ref=IPSPYN) |
+| **FiatBear** | Hyperliquid | Public wallet audits, trader discovery, agent-wallet copying | 🟢 Live | [fiatbear.com](https://fiatbear.com/) |
 | **HyperX** | Hyperliquid | Native trader discovery + position mirroring | 🟢 Live | [hyperx.app](https://hyperx.app/) |
 | **Hyperdash** | Hyperliquid | Copy trading + analytics + TWAP | 🟢 Live | [hyperdash.com](https://hyperdash.com/) |
 | **WunderTrading** | Multi-DEX | TradingView webhook copy + bots | 🟢 Live | [wundertrading.com](https://wundertrading.com/en/trader/register?ref=wbt8e5404fc) |
