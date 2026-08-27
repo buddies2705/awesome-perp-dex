@@ -505,6 +505,7 @@ Connect AI agents (Claude, Cursor, ChatGPT) directly to perp DEX data and execut
 - [**Hyperliquid Python SDK**](https://github.com/hyperliquid-dex/hyperliquid-python-sdk) — Official SDK
 - [**HyperStats**](https://hyperstats.org/) — Trader leaderboard & wallet grading
 - [**HypeFlows**](https://hypeflows.com/) — DEX vs CEX market-share dashboard
+- [**Superior Skills**](https://github.com/Superior-Trade/superior-skills) — Open Agent Skills for Hyperliquid strategy research, backtesting, risk controls, and confirmation-gated deployment workflows
 
 ### Research & Analysis
 - [**a1 Research — Perp DEX Wars**](https://a1research.io/blog/perp-dex-wars-the-8-trillion-institutional-endgame) — Long-form on the $8T perp opportunity
