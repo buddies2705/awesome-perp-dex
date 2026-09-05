@@ -362,6 +362,7 @@ Funding rates, open interest, liquidation maps, volume comparisons, market-share
 | **DEXrabbit** | Sol, ETH, BSC, Base, Tron, Polygon, Arb, Optimism + Polymarket | DexScreener alternative — live token / pair / heatmap analytics with AI overviews. Powered by Bitquery. | [dexrabbit.bitquery.io](https://dexrabbit.bitquery.io/) |
 | **a1 Research** | Industry research | "Perp DEX Wars" deep-dive reports | [a1research.io](https://a1research.io/) |
 | **Hyperliquid Guide** | Hyperliquid | Funding rate, OI, volume tools and guides | [hyperliquidguide.com](https://hyperliquidguide.com/) |
+| **RektCalc** | Cross-exchange (Bybit, Binance, OKX, KuCoin, Bitget, Gate, MEXC) | Free liquidation price, position sizing, PnL/ROE, funding-rate and DCA calculators | [rektcalc.com](https://rektcalc.com/) |
 
 ---
 
