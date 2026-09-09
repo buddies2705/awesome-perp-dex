@@ -350,6 +350,7 @@ Funding rates, open interest, liquidation maps, volume comparisons, market-share
 
 | Tool | Coverage | Notable Features | Link |
 | --- | --- | --- | --- |
+| **AlphaPilot Funding Scanner** | Hyperliquid, Lighter and Ondo Perps | Funding-rate comparisons, round-trip fee estimates and fee break-even time; no signup required | [alphapilot.tech](https://www.alphapilot.tech/tools/funding-rate-arbitrage-scanner) |
 | **DefiLlama Perps** | All on-chain perp DEXs | Canonical 24h volume, OI, fees ranking | [defillama.com/perps](https://defillama.com/perps) |
 | **PerpVision** | 75+ DEXs | TVL, volume, OI, fees, leverage compare | [perpvision.0xtria.dev](https://perpvision.0xtria.dev/) |
 | **PerpFinder** | Cross-DEX | Trader tools: funding, OI, liquidations, calculators | [perpfinder.com](https://perpfinder.com/) |
