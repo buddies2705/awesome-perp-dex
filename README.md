@@ -522,6 +522,8 @@ Connect AI agents (Claude, Cursor, ChatGPT) directly to perp DEX data and execut
 - [**dYdX Discord**](https://discord.gg/dydx)
 - [**GMX Discord**](https://discord.gg/gmx-io)
 - [**Drift Discord**](https://discord.gg/driftprotocol)
+- [HostDeFi](https://hostdefi.com/api/v1/mcp) - Hosted MCP server: free token-safety scans (A+–F grades) across Solana and 7 EVM chains, plus x402-paid analytics endpoints.
+
 
 ---
 
