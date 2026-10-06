@@ -145,6 +145,7 @@ Hyperliquid is an app-specific L1 with a fully on-chain orderbook plus EVM compa
 | **Minara AI Perps** | AI front-end | AI-assisted Hyperliquid trading | 🟢 Live | [minara.ai](https://minara.ai/) |
 | **Ventuals** | Pre-IPO perps | Pre-IPO equity perps on Hyperliquid | 🟢 Live | [ventuals.com](https://app.ventuals.com/) |
 | **Miracle** | Trading app | Hyperliquid trading interface | 🟢 Live | [miracletrade.com](https://www.miracletrade.com/) |
+| **LONG DOGE** | Front-end | Mobile-focused, long-only DOGE front end for Hyperliquid with a what-if exposure/liquidation calculator; not an exchange, does not hold funds | 🟢 Live | [getrichfaster.vercel.app](https://getrichfaster.vercel.app) |
 
 ---
 
