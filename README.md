@@ -355,6 +355,7 @@ Funding rates, open interest, liquidation maps, volume comparisons, market-share
 | **PerpFinder** | Cross-DEX | Trader tools: funding, OI, liquidations, calculators | [perpfinder.com](https://perpfinder.com/) |
 | **PerpScope** | Cross-DEX | Compare fees, points, airdrops across perp DEXs | [perpscope.com](https://www.perpscope.com/) |
 | **PerpScout** | Cross-DEX | Tier list of perp DEXs for traders | [perpscout.com](http://perpscout.com/) |
+| **Swolecharts** | CEX + Hyperliquid | Free funding, OI and liquidation data; Hyperliquid whale and HIP-3 analytics | [swolecharts.com](https://swolecharts.com/) |
 | **Coinperps** | CEX + DEX | Cross-venue funding rates, OI, liquidations | [coinperps.com](https://www.coinperps.com/) |
 | **HypeFlows** | Hyperliquid | Hyperliquid market-share vs CEXs in real time | [hypeflows.com](https://hypeflows.com/) |
 | **HyperTracker** | Hyperliquid | Wallet behaviour, top traders, push alerts | [hypertracker.xyz](https://hypertracker.xyz/) |
