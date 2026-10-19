@@ -341,6 +341,7 @@ Pro-grade interfaces for serious traders — Bloomberg-style charts, advanced or
 | **Pear Interface** | Arbitrum | Pair-trading terminal on Pear Protocol | 🟢 Live | [pear.garden](https://pear.garden/) |
 | **Phantom Perps** | Hyperliquid | Hyperliquid trading inside Phantom wallet | 🟢 Live | [phantom.com](https://phantom.com/) |
 | **MetaMask Perps** | Hyperliquid | Hyperliquid trading inside MetaMask | 🟢 Live | [metamask.io](https://metamask.io/) |
+| **Onchain.cc** | Hyperliquid | Self-custody cross-chain trading terminal built by Bitso; perps up to 40x on majors, 25–50% fee cashback in USDC by rank, 25–55% referral fee share | 🟢 Live | [onchain.cc](https://app.onchain.cc/?referral=QYA6NC7D) |
 
 ---
 
