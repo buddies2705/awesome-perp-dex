@@ -390,6 +390,7 @@ Hyperliquid's fully on-chain orderbook means **everyone's positions are public**
 | **Copin** | 20+ perp DEXs | 600K+ traders, full PnL transparency, one-click | 🟢 Live | [copin.io](https://app.copin.io?ref=IPSPYN) |
 | **HyperX** | Hyperliquid | Native trader discovery + position mirroring | 🟢 Live | [hyperx.app](https://hyperx.app/) |
 | **Hyperdash** | Hyperliquid | Copy trading + analytics + TWAP | 🟢 Live | [hyperdash.com](https://hyperdash.com/) |
+| **CopyHype** | Hyperliquid | Telegram Mini App: copy active traders in one tap from $2, non-custodial wallet, free 7-day practice | 🟢 Live | [copyhype.family](https://copyhype.family/) |
 | **WunderTrading** | Multi-DEX | TradingView webhook copy + bots | 🟢 Live | [wundertrading.com](https://wundertrading.com/en/trader/register?ref=wbt8e5404fc) |
 | **goodcryptoX** | Multi-DEX | Multi-venue automation incl. Hyperliquid | 🟢 Live | [goodcrypto.app](https://goodcrypto.app/) |
 | **Hyperbot** | Hyperliquid + Aster | AI-tagged copy trading, 0.1% service fee | 🟢 Live | [hyperbot.network](https://hyperbot.network/) |
