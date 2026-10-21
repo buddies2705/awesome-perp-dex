@@ -356,6 +356,7 @@ Funding rates, open interest, liquidation maps, volume comparisons, market-share
 | **PerpScope** | Cross-DEX | Compare fees, points, airdrops across perp DEXs | [perpscope.com](https://www.perpscope.com/) |
 | **PerpScout** | Cross-DEX | Tier list of perp DEXs for traders | [perpscout.com](http://perpscout.com/) |
 | **Coinperps** | CEX + DEX | Cross-venue funding rates, OI, liquidations | [coinperps.com](https://www.coinperps.com/) |
+| **DELTA** | 20+ perp DEXs + CEXs | Funding-rate arbitrage pairs, cross-venue perp price spreads, per-coin funding history, free and no login | [delta-arb.pro](https://delta-arb.pro/) |
 | **HypeFlows** | Hyperliquid | Hyperliquid market-share vs CEXs in real time | [hypeflows.com](https://hypeflows.com/) |
 | **HyperTracker** | Hyperliquid | Wallet behaviour, top traders, push alerts | [hypertracker.xyz](https://hypertracker.xyz/) |
 | **Hyperscanner** | Hyperliquid + HyperEVM | Unified analytics + block explorer | [hyperscanner.app](https://www.hyperscanner.app/) |
