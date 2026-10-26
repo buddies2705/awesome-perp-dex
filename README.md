@@ -341,6 +341,7 @@ Pro-grade interfaces for serious traders — Bloomberg-style charts, advanced or
 | **Pear Interface** | Arbitrum | Pair-trading terminal on Pear Protocol | 🟢 Live | [pear.garden](https://pear.garden/) |
 | **Phantom Perps** | Hyperliquid | Hyperliquid trading inside Phantom wallet | 🟢 Live | [phantom.com](https://phantom.com/) |
 | **MetaMask Perps** | Hyperliquid | Hyperliquid trading inside MetaMask | 🟢 Live | [metamask.io](https://metamask.io/) |
+| **Graphite** | Hyperliquid (incl. HIP-3) | Trade drawn on the chart, mandatory SL/TP, size from risk net of fees; web PWA | 🟢 Live | [app.graphite.trade](https://app.graphite.trade/) |
 
 ---
 
