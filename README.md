@@ -362,6 +362,7 @@ Funding rates, open interest, liquidation maps, volume comparisons, market-share
 | **DEXrabbit** | Sol, ETH, BSC, Base, Tron, Polygon, Arb, Optimism + Polymarket | DexScreener alternative — live token / pair / heatmap analytics with AI overviews. Powered by Bitquery. | [dexrabbit.bitquery.io](https://dexrabbit.bitquery.io/) |
 | **a1 Research** | Industry research | "Perp DEX Wars" deep-dive reports | [a1research.io](https://a1research.io/) |
 | **Hyperliquid Guide** | Hyperliquid | Funding rate, OI, volume tools and guides | [hyperliquidguide.com](https://hyperliquidguide.com/) |
+| **perp-fee-data** | Hyperliquid, dYdX, Lighter, Aster, Drift | Source-linked entry-tier maker/taker fees as JSON for AI agents; every number cites the official doc + check date, unknowns marked not estimated | [github.com/agent-read-tools/perp-fee-data](https://github.com/agent-read-tools/perp-fee-data) |
 
 ---
 
