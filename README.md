@@ -356,6 +356,7 @@ Funding rates, open interest, liquidation maps, volume comparisons, market-share
 | **PerpScope** | Cross-DEX | Compare fees, points, airdrops across perp DEXs | [perpscope.com](https://www.perpscope.com/) |
 | **PerpScout** | Cross-DEX | Tier list of perp DEXs for traders | [perpscout.com](http://perpscout.com/) |
 | **Coinperps** | CEX + DEX | Cross-venue funding rates, OI, liquidations | [coinperps.com](https://www.coinperps.com/) |
+| **CostDepth** | Hyperliquid + 16 CEXs | Fee calculator: base-tier fee plus spread and slippage from the live order book, for any order size | [costdepth.io/hyperliquid-fees](https://www.costdepth.io/hyperliquid-fees) |
 | **HypeFlows** | Hyperliquid | Hyperliquid market-share vs CEXs in real time | [hypeflows.com](https://hypeflows.com/) |
 | **HyperTracker** | Hyperliquid | Wallet behaviour, top traders, push alerts | [hypertracker.xyz](https://hypertracker.xyz/) |
 | **Hyperscanner** | Hyperliquid + HyperEVM | Unified analytics + block explorer | [hyperscanner.app](https://www.hyperscanner.app/) |
