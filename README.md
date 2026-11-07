@@ -409,6 +409,7 @@ Hyperliquid's fully on-chain orderbook means **everyone's positions are public**
 | **3Commas** | CEX + DEX | Bots, grid, DCA, signals | 🟢 Live | [3commas.io](https://app.3commas.io/auth/registration?utm_source=referral&utm_medium=cabinet&c=coinmonks) |
 | **Cryptohopper** | CEX + DEX | Cloud trading bots | 🟢 Live | [cryptohopper.com](https://www.cryptohopper.com/?atid=15596) |
 | **xlev-v Hyperliquid Bot** | Open-source | GitHub-hosted Hyperliquid bot | 🟢 Live | [GitHub](https://github.com/xlev-v/Hyperliquid-Trading-Bot) |
+| **Mishmar** | Risk layer for bots + agents | Limits on every order before it reaches the venue, approval on large ones, a split API key so no key trades alone; Python + TypeScript SDKs | 🟡 Testnet | [mishmar.io](https://mishmar.io) |
 
 ---
 
@@ -486,6 +487,7 @@ Connect AI agents (Claude, Cursor, ChatGPT) directly to perp DEX data and execut
 | **Hyperliquid MCP (PlayAI)** | USD sizing, dual-account architecture | 🟢 Live | [GitHub](https://github.com/PlayAINetwork/hyperliquid) |
 | **VOOI MCP** | AI agent perp aggregation execution | 🟢 Live | [vooi MCP](https://vooi.io/perpdexaggregator/vooi-mcp-execution-layer) |
 | **Bybit MCP** (CEX-side) | 247 tools, full Bybit V5 API for hedging | 🟢 Live | [GitHub](https://github.com/bybit-exchange/bybit-mcp) |
+| **Mishmar MCP** | Trade on Hyperliquid and Binance through your limits: approval on large orders, and the model never holds a key | 🟡 Testnet | [GitHub](https://github.com/mishmar-io/mishmar) |
 
 ---
 
