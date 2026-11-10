@@ -341,6 +341,7 @@ Pro-grade interfaces for serious traders — Bloomberg-style charts, advanced or
 | **Pear Interface** | Arbitrum | Pair-trading terminal on Pear Protocol | 🟢 Live | [pear.garden](https://pear.garden/) |
 | **Phantom Perps** | Hyperliquid | Hyperliquid trading inside Phantom wallet | 🟢 Live | [phantom.com](https://phantom.com/) |
 | **MetaMask Perps** | Hyperliquid | Hyperliquid trading inside MetaMask | 🟢 Live | [metamask.io](https://metamask.io/) |
+| **Wardx** | Lighter | Wallet-native terminal with TradingView chart, live order book, market/limit orders, TP/SL, positions and fills | 🟢 Live | [wardx.xyz](https://wardx.xyz/) |
 
 ---
 
