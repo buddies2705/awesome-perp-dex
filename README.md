@@ -393,6 +393,7 @@ Hyperliquid's fully on-chain orderbook means **everyone's positions are public**
 | **WunderTrading** | Multi-DEX | TradingView webhook copy + bots | 🟢 Live | [wundertrading.com](https://wundertrading.com/en/trader/register?ref=wbt8e5404fc) |
 | **goodcryptoX** | Multi-DEX | Multi-venue automation incl. Hyperliquid | 🟢 Live | [goodcrypto.app](https://goodcrypto.app/) |
 | **Hyperbot** | Hyperliquid + Aster | AI-tagged copy trading, 0.1% service fee | 🟢 Live | [hyperbot.network](https://hyperbot.network/) |
+| **AlphaYou** | Hyperliquid | Top-trader leaderboard, public wallet pages, 1-tap copy into your own account | 🟢 Live | [app.alphayou.net](https://app.alphayou.net/) |
 
 ---
 
