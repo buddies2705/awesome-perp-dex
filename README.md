@@ -334,6 +334,7 @@ Pro-grade interfaces for serious traders — Bloomberg-style charts, advanced or
 | --- | --- | --- | --- | --- |
 | **Hyperdash** | Hyperliquid | Analytics + execution + copy trading + TWAP, acquired by PVP Trade | 🟢 Live | [hyperdash.com](https://hyperdash.com/) |
 | **Chainpro** | Hyperliquid, Solana, Base | Hedge fund-grade non-custodial terminal | 🟢 Live | [chainpro.xyz](https://chainpro.xyz/) |
+| **Bitpont** | Hyperliquid, GMX, Ostium, Velocity (Solana) | Non-custodial interface for perpetual trading, position management, swaps and bridging | 🟢 Live | [bitpont.com](https://www.bitpont.com/) |
 | **Bullpen** | Solana + Hyperliquid | Co-founded by Ansem; web, mobile, Telegram | 🟢 Live | [bullpen.fi](https://bullpen.fi/@agile-yak) |
 | **Altitude** | HyperEVM | Built for HyperEVM token + perp trading | 🟢 Live | [altitude.xyz](https://altitude.xyz/) |
 | **Brahma** | Hyperliquid + EVMs | Strategy orchestration layer for automated perp trading | 🟢 Live | [brahma.fi](https://brahma.fi/) |
