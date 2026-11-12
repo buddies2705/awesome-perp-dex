@@ -143,6 +143,7 @@ Hyperliquid is an app-specific L1 with a fully on-chain orderbook plus EVM compa
 | **Kinetiq Markets** | Trading app | Hyperliquid markets front-end | 🟢 Live | [markets.xyz](https://markets.xyz/) |
 | **Senpi Perps** | AI agent app | AI-driven perp trading on Hyperliquid | 🟢 Live | [senpi.ai](https://senpi.ai/) |
 | **Minara AI Perps** | AI front-end | AI-assisted Hyperliquid trading | 🟢 Live | [minara.ai](https://minara.ai/) |
+| **Self-Hosted Perp DEX with AI Agents** | AI front-end (open source) | Self-hosted Hyperliquid terminal with an AI agent that reads the chart and suggests trades; you confirm every order | 🟢 Live | [GitHub](https://github.com/rc-dran/self-hosted-perp-dex) |
 | **Ventuals** | Pre-IPO perps | Pre-IPO equity perps on Hyperliquid | 🟢 Live | [ventuals.com](https://app.ventuals.com/) |
 | **Miracle** | Trading app | Hyperliquid trading interface | 🟢 Live | [miracletrade.com](https://www.miracletrade.com/) |
 
@@ -485,6 +486,7 @@ Connect AI agents (Claude, Cursor, ChatGPT) directly to perp DEX data and execut
 | **Hyperliquid MCP (edk)** | Bracket orders, market data, account mgmt | 🟢 Live | [GitHub](https://github.com/edkdev/hyperliquid-mcp) |
 | **Hyperliquid MCP (PlayAI)** | USD sizing, dual-account architecture | 🟢 Live | [GitHub](https://github.com/PlayAINetwork/hyperliquid) |
 | **VOOI MCP** | AI agent perp aggregation execution | 🟢 Live | [vooi MCP](https://vooi.io/perpdexaggregator/vooi-mcp-execution-layer) |
+| **OpenFinance MCP** | Hosted MCP to trade every Hyperliquid perp (incl. HIP-3 stocks and FX), Polymarket and onchain swaps from Claude, ChatGPT or Cursor | 🟢 Live | [openfinance.tech](https://openfinance.tech/agents/hyperliquid-mcp-server) |
 | **Bybit MCP** (CEX-side) | 247 tools, full Bybit V5 API for hedging | 🟢 Live | [GitHub](https://github.com/bybit-exchange/bybit-mcp) |
 
 ---
