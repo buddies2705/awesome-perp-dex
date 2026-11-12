@@ -486,6 +486,7 @@ Connect AI agents (Claude, Cursor, ChatGPT) directly to perp DEX data and execut
 | **Hyperliquid MCP (edk)** | Bracket orders, market data, account mgmt | 🟢 Live | [GitHub](https://github.com/edkdev/hyperliquid-mcp) |
 | **Hyperliquid MCP (PlayAI)** | USD sizing, dual-account architecture | 🟢 Live | [GitHub](https://github.com/PlayAINetwork/hyperliquid) |
 | **VOOI MCP** | AI agent perp aggregation execution | 🟢 Live | [vooi MCP](https://vooi.io/perpdexaggregator/vooi-mcp-execution-layer) |
+| **OpenFinance MCP** | Hosted MCP to trade every Hyperliquid perp (incl. HIP-3 stocks and FX), Polymarket and onchain swaps from Claude, ChatGPT or Cursor | 🟢 Live | [openfinance.tech](https://openfinance.tech/agents/hyperliquid-mcp-server) |
 | **Bybit MCP** (CEX-side) | 247 tools, full Bybit V5 API for hedging | 🟢 Live | [GitHub](https://github.com/bybit-exchange/bybit-mcp) |
 
 ---
