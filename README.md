@@ -143,6 +143,7 @@ Hyperliquid is an app-specific L1 with a fully on-chain orderbook plus EVM compa
 | **Kinetiq Markets** | Trading app | Hyperliquid markets front-end | 🟢 Live | [markets.xyz](https://markets.xyz/) |
 | **Senpi Perps** | AI agent app | AI-driven perp trading on Hyperliquid | 🟢 Live | [senpi.ai](https://senpi.ai/) |
 | **Minara AI Perps** | AI front-end | AI-assisted Hyperliquid trading | 🟢 Live | [minara.ai](https://minara.ai/) |
+| **Self-Hosted Perp DEX with AI Agents** | AI front-end (open source) | Self-hosted Hyperliquid terminal with an AI agent that reads the chart and suggests trades; you confirm every order | 🟢 Live | [GitHub](https://github.com/rc-dran/self-hosted-perp-dex) |
 | **Ventuals** | Pre-IPO perps | Pre-IPO equity perps on Hyperliquid | 🟢 Live | [ventuals.com](https://app.ventuals.com/) |
 | **Miracle** | Trading app | Hyperliquid trading interface | 🟢 Live | [miracletrade.com](https://www.miracletrade.com/) |
 
