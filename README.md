@@ -500,6 +500,7 @@ Connect AI agents (Claude, Cursor, ChatGPT) directly to perp DEX data and execut
 - [**Coinperps**](https://www.coinperps.com/) — Cross-venue funding rates, OI, liquidations
 
 ### Hyperliquid-specific
+- [**HYQUID Guide**](https://hyquidguide.com/guides/hyperliquid-fees/#round-trip-calculator) — Perpetual entry/exit fee calculator with separate fill values and maker/taker roles, plus multilingual usage guides
 - [**Hyperliquid Guide**](https://hyperliquidguide.com/) — Best independent guide hub
 - [**Hyperliquid Docs**](https://hyperliquid.gitbook.io/) — Official protocol docs
 - [**Hyperliquid Python SDK**](https://github.com/hyperliquid-dex/hyperliquid-python-sdk) — Official SDK
@@ -588,3 +589,4 @@ If you arrived here looking for any of the following, you're in the right place:
 - **Bot trading** — Hyperliquid Python SDK + HypeRPC + Brahma for automated perp strategies.
 - **Airdrop farming** — Track [BlockEden's 23 perp DEX cohort](https://blockeden.xyz/blog/2026/04/28/perp-dex-cohort-2026-lighter-airdrop-hyperliquid-long-tail/) for 2026 airdrop opportunities.
 - **Researchers & analysts** — DefiLlama + PerpVision + a1 Research for the canonical perp DEX dataset.
+
