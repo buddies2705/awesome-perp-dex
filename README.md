@@ -379,6 +379,7 @@ Hyperliquid's fully on-chain orderbook means **everyone's positions are public**
 | **HyperX** | Hyperliquid | Native Hyperliquid trader discovery + copy | 🟢 Live | [hyperx.app](https://hyperx.app/) |
 | **whale-tracker-mcp** | Multi-chain | MCP server for whale tx tracking via AI agents | 🟢 Live | [GitHub](https://github.com/kukapay/whale-tracker-mcp) |
 | **hyperliquid-whalealert-mcp** | Hyperliquid | Real-time whale alerts via MCP | 🟢 Live | [GitHub](https://github.com/kukapay/hyperliquid-whalealert-mcp) |
+| **EdgeRadar** 🆕 | Hyperliquid + Multi-venue | Zero-key Hyperliquid vault L1 `userFills` fee & L2 spread bleed forensics + 7-tool MCP server | 🟢 Live | [vault-audit](https://roy19012e.github.io/edgeradar/vault-audit.html) |
 
 ---
 
