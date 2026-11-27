@@ -393,6 +393,7 @@ Hyperliquid's fully on-chain orderbook means **everyone's positions are public**
 | **WunderTrading** | Multi-DEX | TradingView webhook copy + bots | 🟢 Live | [wundertrading.com](https://wundertrading.com/en/trader/register?ref=wbt8e5404fc) |
 | **goodcryptoX** | Multi-DEX | Multi-venue automation incl. Hyperliquid | 🟢 Live | [goodcrypto.app](https://goodcrypto.app/) |
 | **Hyperbot** | Hyperliquid + Aster | AI-tagged copy trading, 0.1% service fee | 🟢 Live | [hyperbot.network](https://hyperbot.network/) |
+| **Mirrorly** | Hyperliquid, Bybit, Bitget, BloFin | Self-custodial cross-exchange perp copy trading from curated Hyperliquid & Binance leaderboards, with sizing/exposure caps, slippage limits, inverse copy & TP/SL; 0.02%–0.03% HL builder fee, free via referral link with plans for other exchanges | 🟢 Live | [mirrorly.xyz](https://mirrorly.xyz/) |
 
 ---
 
