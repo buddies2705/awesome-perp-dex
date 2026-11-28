@@ -409,6 +409,7 @@ Hyperliquid's fully on-chain orderbook means **everyone's positions are public**
 | **3Commas** | CEX + DEX | Bots, grid, DCA, signals | 🟢 Live | [3commas.io](https://app.3commas.io/auth/registration?utm_source=referral&utm_medium=cabinet&c=coinmonks) |
 | **Cryptohopper** | CEX + DEX | Cloud trading bots | 🟢 Live | [cryptohopper.com](https://www.cryptohopper.com/?atid=15596) |
 | **xlev-v Hyperliquid Bot** | Open-source | GitHub-hosted Hyperliquid bot | 🟢 Live | [GitHub](https://github.com/xlev-v/Hyperliquid-Trading-Bot) |
+| **exchange-api-checks** | Open-source checks | Scripts that test what perp DEX APIs really return against SDK assumptions (Hyperliquid, dYdX, Aster, Extended) | 🟢 Live | [GitHub](https://github.com/takinanton/exchange-api-checks) |
 
 ---
 
